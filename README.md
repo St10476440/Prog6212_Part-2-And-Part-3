@@ -1,5 +1,7 @@
 # POE PART 2 AND PART 3 — RaceDay
 
+https://youtu.be/YEKMJdsLh00
+
 ## Solution contents
 - `POE_Part2`: ASP.NET Core Web API (JWT authentication and RaceDay endpoints).
 - `RaceDay`: ASP.NET Core MVC website (Participant and Organiser interfaces).
